@@ -9,6 +9,7 @@ import java.util.Map;
 public interface ErrorCode {
 
     /**
+     * 1.3版本
      * 错误内容为content
      * @param content
      */
