@@ -11,7 +11,7 @@ public interface ErrorCode {
     /**
      * 错误内容为content
      * @param content
-     * 不错
+     * 不错 
      */
 	
 	
