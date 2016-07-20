@@ -9,7 +9,7 @@ import java.util.Map;
 public interface ErrorCode {
 
     /**
-     * 设置错误内容
+     * 错误内容为content
      * @param content
      */
 	
