@@ -10,6 +10,7 @@ public interface ErrorCode {
 
     /**
      * 1.3版本
+     * 1.3版本持续开发
      * 错误内容为content
      * @param content
      */
