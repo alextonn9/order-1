@@ -12,6 +12,8 @@ public interface ErrorCode {
      * 设置错误内容
      * @param content
      */
+	
+	
     public void setErrorContent(Map<String, Object> content);
 
     /**
